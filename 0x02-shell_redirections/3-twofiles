@@ -1,2 +1,2 @@
-#!/binbash
+#!/bin/bash
 cat pr -t /etc/passwd /etc/hosts
